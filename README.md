@@ -3,7 +3,7 @@
 
 ## Project Summary
 
-Analyzed global life expectancy data using **Microsoft Excel** to uncover **trends, inequalities, and key drivers of longevity** across regions, income levels, and gender.
+Analyzed global life expectancy data using **Microsoft Excel** to uncover **trends and inequalities** across regions, income levels, and gender.
 
 Designed an interactive dashboard that transforms raw data into **clear, actionable insights for decision-making**.
 
