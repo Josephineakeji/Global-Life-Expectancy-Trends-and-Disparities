@@ -25,7 +25,7 @@ This project answers:
 
 **Life Expectancy at Birth (2000-2021)**
 
-* Covers global, regional, and economic group classifications
+* Covers global, regional, countries and economic group classifications
 * Includes gender-based estimates
 * Represents the **average lifespan of a newborn**
 
