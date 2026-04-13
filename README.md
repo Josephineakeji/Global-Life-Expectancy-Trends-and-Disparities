@@ -64,8 +64,7 @@ This project answers:
 <img width="269" height="286" alt="regions" src="https://github.com/user-attachments/assets/c700d4ca-fb7c-4c66-9102-0d9cf913084c" />
 
 **Insights**
-* **Highest Life Expectancy:** Americas & Europe
-* **Lowest:** Africa
+* **Highest Life Expectancy** is Americas & Europe while **Lowest** is Africa
 * Highlights the gap between **developed and developing regions**
 
 ### 3. Income Group and Gender Analysis
