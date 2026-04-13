@@ -17,7 +17,7 @@ This project answers:
 
 * How has global life expectancy evolved over time?
 * Where do disparities exist across regions?
-* Impact of income levels on life expectancy and gender gap?
+* Impact of income levels on life expectancy and gender gap
 
 ---
 
