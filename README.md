@@ -7,7 +7,6 @@ Analyzed global life expectancy data using **Microsoft Excel** to uncover **tren
 
 Designed an interactive dashboard that transforms raw data into **clear, actionable insights for decision-making**.
 
----
 
 ## Business Problem
 
@@ -19,7 +18,6 @@ This project answers:
 * Where do disparities exist across regions?
 * Impact of income levels on life expectancy and gender gap
 
----
 
 ## Dataset
 
@@ -29,7 +27,6 @@ This project answers:
 * Includes gender-based estimates
 * Represents the **average lifespan of a newborn**
 
----
 
 ## Tools & Techniques
 
@@ -43,7 +40,6 @@ This project answers:
 * **Comparative Analysis**
 * **Data Storytelling**
 
----
 
 ## Dashboards & Key Insights 
 
@@ -77,7 +73,6 @@ This project answers:
 * Lower income groups face **reduced lifespan outcomes**
 * Females outlive males across all income groups
 
----
 
 ## Dashboard Features
 
@@ -87,7 +82,6 @@ This project answers:
 * Income-level analysis by gender
 * Interactive filters (Year, Region, Gender)
 
----
 
 ## Limitations
 
@@ -98,7 +92,6 @@ This project answers:
   * Environmental factors
 * Some insights are **inferred due to missing variables**
 
----
 
 ## Key Insights for Decision-Making
 
@@ -109,7 +102,6 @@ This project answers:
   * Improved infrastructure in developing regions
   * Better living conditions in low-income regions
 
----
 
 ##  What This Project Demonstrates
 
@@ -118,13 +110,11 @@ This project answers:
 * Clear **data storytelling and insight communication**
 * Real-world thinking with **assumptions and limitations acknowledged**
 
----
 
 ## Key Takeaway
 
 > Life expectancy is not just a health metric - it reflects **economic strength, infrastructure, and overall quality of life**.
 
----
 
 ## Future Improvements
 
